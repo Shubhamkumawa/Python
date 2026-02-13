@@ -1,0 +1,5 @@
+population = 80000                  # Population of town
+demand_per_head = 200               # Litres per head per day
+maximum_demand_factor = 1.50        # Maximum demand factor
+filtration_rate = 5000              # Litres per hour per m^2
+hours_per_day = 24                  # Hours in a day
